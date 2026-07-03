@@ -2,3 +2,7 @@
 
 # Microservices-with-Spring-Boot-and-Spring-Cloud-Fourth-Edition
 Microservices with Spring Boot &amp; Spring Cloud, Fourth Edition, published by Packt
+
+## Errata
+
+* The source code has been upgraded from Spring Boot 3.5.0 used in the book to 3.5.16. The reason for this is to resolve issue #5.
