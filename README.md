@@ -5,4 +5,4 @@ Microservices with Spring Boot &amp; Spring Cloud, Fourth Edition, published by 
 
 ## Errata
 
-* The source code has been upgraded from Spring Boot 3.5.0 used in the book to 3.5.16. The reason for this is to resolve issue #5.
+* The source code has been upgraded from Spring Boot 3.5.0 used in the book to 3.5.16. The reason for this is to resolve [issue #5: Testcontainers 1.21.0 (managed by Spring Boot 3.5.0) does not work with newer version of Docker Desktop](../../issues/5).
